@@ -14,19 +14,19 @@
             android:id="@+id/Name"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Name" />
+            android:hint="Nama" />
 
         <EditText
             android:id="@+id/Dob"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Date of Birth (e.g. 12.12.1990)" />
+            android:hint="Tempat tanggal lahir" />
 
         <EditText
             android:id="@+id/Phone"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Phone" />
+            android:hint="No.tlpn" />
 
         <EditText
             android:id="@+id/Email"
@@ -38,13 +38,13 @@
             android:id="@+id/Account"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Bank Account Number" />
+            android:hint="No rekening" />
 
         <Button
             android:id="@+id/btn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Save"
+            android:text="Simpan"
             android:layout_marginTop="16dp"
             android:backgroundTint="#974C68"
             android:textColor="#FFFFFF" />
